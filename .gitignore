@@ -1,3 +1,8 @@
+# KF2's cache
+Cache/
+Config/
+Logs/
+
 # Visual Studio 2015 user specific files
 .vs/
 
